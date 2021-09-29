@@ -1,0 +1,90 @@
+body{
+  background-color: #FFF9B2
+}
+
+h1 {
+  text-align: center;
+  font-size: 40px;
+  padding-bottom: 30px;
+}
+
+table {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70rem;
+  margin-bottom: 50px;
+}
+
+.choose_button_area_1{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding:1.8rem 2rem  0.1rem 2rem ;
+}
+
+.choose_button_area_2{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding:2.5rem 2rem  0.1rem 2rem ;
+}
+
+.choose_button{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 20px;
+  padding: 12px 28px;
+  background-color: #FFADAD;
+  border-radius: 8px;
+
+}
+
+.choose_button:hover{
+  background-color: #FF5C58;
+  color: white;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #FFADAD;
+  border-width: 7px;
+  width: 7%;
+}
+
+h2{
+  text-align: center;
+  padding-top: 25px;
+  font-size: 30px;
+}
+
+.row{
+  column-count: 2;
+  text-align: center;
+}
+
+.col-1{
+  text-align: right;
+  padding:5px;
+}
+
+.col-2{
+  text-align: left;
+}
+
+.nobullet{
+  list-style-type: none;
+}
+
+li{
+  padding-bottom: 15px;
+}
+
+.submit-area{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding:2.5rem 5rem 2rem 5rem ;
+}
